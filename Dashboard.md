@@ -8,7 +8,7 @@ Starting from the logo in the top left downwards you have
 - The shop logo, which links back here to the dashboard
 - The admin menu and sub items
     - Catalogue - This is where product management and related options are
-        - Taxons - Where you manage the taxons, colloquially referred to as categories in similar eCommerce systems, for the products are managed.
+        - [Taxons](Catalog/Taxons.md) - Where you manage the taxons, colloquially referred to as categories in similar eCommerce systems, for the products are managed.
         - Products - Where the products are managed.
         - Inventory - Management of stock levels for products that have marked the quantity as tracked.
         - Attributes - The management for the various linked characteristics for products. As an example washing instructions and/or manufacturer would be applicable for a clothing product.
