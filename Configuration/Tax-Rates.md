@@ -4,7 +4,7 @@ Tax rates allow you to specify what tax values apply based on a Tax category and
 
 This allows you to set up different taxes that will be added to a users cart if they match the rules you specify.
 
-![alt text](../assets/images/Configuration/03_sylius_admin_tax_rate_index.png "Example Tax Rates view.")
+![alt text](../assets/images/Configuration/Tax-Rates/01_sylius_admin_tax_rate_index.png "Example Tax Rates view.")
 
 This view displays the tax rates that are currently in the system and allows you to filter the list if needed.
 
@@ -12,7 +12,7 @@ This view displays the tax rates that are currently in the system and allows you
 
 To add a new tax rate, use the create button on the top left of the view and you will be shown the below view:
 
-![alt text](../assets/images/Configuration/04_sylius_admin_tax_rate_create.png "Example Tax Rates view.")
+![alt text](../assets/images/Configuration/Tax-Rates/02_sylius_admin_tax_rate_create.png "Example Tax Rates view.")
 
 ### Fields
 

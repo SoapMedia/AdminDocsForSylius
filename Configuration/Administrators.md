@@ -6,13 +6,13 @@ Administrators are completely separate from Shop users and customers. This means
 
 The administrator view give you the ability to filter, edit and delete administrators in the system.
 
-![alt text](../assets/images/Configuration/01_sylius_admin_admin_user_index.png "Example Administrators view.")
+![alt text](../assets/images/Configuration/Administrators/01_sylius_admin_admin_user_index.png "Example Administrators view.")
 
 ## New Administrator
 
 Clicking create in the top right will allow you to add new administrator user and present you with the below screen.
 
-![alt text](../assets/images/Configuration/02_sylius_admin_admin_user_create.png "Example Administrators view.")
+![alt text](../assets/images/Configuration/Administrators/02_sylius_admin_admin_user_create.png "Example Administrators view.")
 
 Fields:
 - Username
