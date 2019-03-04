@@ -36,6 +36,7 @@ To add a channel click the create button top right of the view. This will presen
     - Whether or not the channel is currently allowed to be used.
 - Hostname
     - This is the url on which the channel is accessed.
+    - If you are using multiple channels, this option is required as it will let the system know which channel to display to the user. Without this, there will be an error.
 - Contact Email
     - An email address for the person or persons that manage the channel.
 - Color
