@@ -24,7 +24,7 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     3. [Zones](Configuration/Zones.md)
     4. [Currencies](Configuration/Currencies.md)
     5. [Exchange rates](Configuration/Exchange-Rates.md)
-    6. [Locales](#)
+    6. [Locales](Configuration/Locales.md)
     7. [Payment methods](#)
     8. [Shipping methods](#)
     9. [Shipping categories](#)
