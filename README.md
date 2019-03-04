@@ -28,6 +28,6 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     7. [Payment methods](Configuration/Payment-Methods.md)
     8. [Shipping methods](Configuration/Shipping-Methods.md)
     9. [Shipping categories](Configuration/Shipping-Categories.md)
-    10. [Tax categories](#)
+    10. [Tax categories](Configuration/Tax-Categories.md)
     11. [Tax rates](Configuration/Tax-Rates.md)
     12. [Administrators](Configuration/Administrators.md)
