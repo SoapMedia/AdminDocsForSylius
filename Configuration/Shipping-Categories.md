@@ -6,7 +6,7 @@ TBC
 
 ## Create
 
-To add a payment gateway click the create button top right of this view and you will be presented with the below view:
+To add a shipping category click the create button top right of this view and you will be presented with the below view:
 
 ![alt text](../assets/images/Configuration/Shipping-Categories/02_sylius_admin_shipping_category_create.png "Example add Shipping Category view.")
 
