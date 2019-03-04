@@ -10,7 +10,7 @@ This view displays the tax rates that are currently in the system and allows you
 
 ## Create
 
-To add a new tax rate, use the create button on the top left of the view and you will be shown the below view:
+To add a new tax rate, use the create button on the top right of the view and you will be shown the below view:
 
 ![alt text](../assets/images/Configuration/Tax-Rates/02_sylius_admin_tax_rate_create.png "Example Tax Rates view.")
 
