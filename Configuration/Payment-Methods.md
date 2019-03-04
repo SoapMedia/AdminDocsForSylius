@@ -17,7 +17,7 @@ There could be more payment methods to choose if you have added extra plugins or
 
 Once you have chosen the payment method you would like to add, you will be given the following view:
 
-![alt text](../assets/images/Configuration/Payment-Methods/01_sylius_admin_payment_method_index.png "Example Payment Methods view.")
+![alt text](../assets/images/Configuration/Payment-Methods/02_sylius_admin_payment_method_create.png "Example add Payment Method view.")
 
 ```text
 Please note: This view will vary depending on the method you have chosen and how many options are required to set up that method
