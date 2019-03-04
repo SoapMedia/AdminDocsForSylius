@@ -22,7 +22,7 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     1. [Channels](Configuration/Channels.md)
     2. [Countries](Configuration/Coutries.md)
     3. [Zones](Configuration/Zones.md)
-    4. [Currencies](#)
+    4. [Currencies](Configuration/Currencies.md)
     5. [Exchange rates](#)
     6. [Locales](#)
     7. [Payment methods](#)
