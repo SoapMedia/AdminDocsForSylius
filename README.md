@@ -9,7 +9,7 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     3. [Inventory](#)
     4. [Attributes](#)
     5. [Options](#)
-    6. [Assosiation types](#)
+    6. [Association types](#)
 2. Sales
     1. [Orders](#)
 3. Customer
