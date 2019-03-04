@@ -16,8 +16,8 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     1. [Customers*](#)
     2. [Groups*](#)
 4. Marketing
-    1. [Promotions*](Marketing/Promotions.md)
-    2. [Product reviews*](Marketing/Product-Reviews.md)
+    1. [Promotions](Marketing/Promotions.md)
+    2. [Product reviews](Marketing/Product-Reviews.md)
 5. Configuration
     1. [Channels](Configuration/Channels.md)
     2. [Countries](Configuration/Coutries.md)
