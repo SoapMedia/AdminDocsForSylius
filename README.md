@@ -26,7 +26,7 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     5. [Exchange rates](Configuration/Exchange-Rates.md)
     6. [Locales](Configuration/Locales.md)
     7. [Payment methods](Configuration/Payment-Methods.md)
-    8. [Shipping methods](#)
+    8. [Shipping methods](Configuration/Shipping-Methods.md)
     9. [Shipping categories](#)
     10. [Tax categories](#)
     11. [Tax rates](Configuration/Tax-Rates.md)
