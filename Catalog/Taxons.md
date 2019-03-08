@@ -1,7 +1,7 @@
 #Taxons
 The taxons area allows admins to manage product taxonomies.
 
-![alt text](assets/images/03_sylius_admin_taxon.png "Sylius Taxon management")
+![alt text](../assets/images/Catalog/01_sylius_admin_taxon.png "Sylius Taxon management")
 
 In the top left you have a button that will create a new form, seen to the right, to allow a new taxon to be created.
 
