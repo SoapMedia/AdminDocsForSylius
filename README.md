@@ -4,12 +4,12 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
 ## Contents
 
 1. Catalog
-    1. [Taxons*](#)
-    2. [Products*](#)
-    3. [Inventory*](#)
-    4. [Attributes*](#)
-    5. [Options*](#)
-    6. [Association types*](#)
+    1. [Taxons](Catalog/Taxons.md)
+    2. [Products](Catalog/Products.md)
+    3. [Inventory](Catalog/Inventory.md)
+    4. [Attributes](Catalog/Attributes.md)
+    5. [Options](Catalog/Options.md)
+    6. [Association Types](Catalog/Associations.md)
 2. Sales
     1. [Orders*](#)
 3. Customer
