@@ -9,11 +9,11 @@ Starting from the logo in the top left downwards you have
 - The admin menu and sub items
     - Catalogue - This is where product management and related options are
         - [Taxons](Catalog/Taxons.md) - Where you manage the taxons, colloquially referred to as categories in similar eCommerce systems, for the products are managed.
-        - Products - Where the products are managed.
-        - Inventory - Management of stock levels for products that have marked the quantity as tracked.
-        - Attributes - The management for the various linked characteristics for products. As an example washing instructions and/or manufacturer would be applicable for a clothing product.
-        - Options - The management for product options. Similar to Attributes, options are also used for product selection options. An example of possible options would be size or color.
-        - Association Types - You can associate products to other products through associations. An example association type would be 'similar products'.
+        - [Products](Catalog/Products.md) - Where the products are managed.
+        - [Inventory](Catalog/Inventory.md) - Management of stock levels for products that have marked the quantity as tracked.
+        - [Attributes](Catalog/Attributes.md) - The management for the various linked characteristics for products. As an example washing instructions and/or manufacturer would be applicable for a clothing product.
+        - [Options](Catalog/Options.md) - The management for product options. Similar to Attributes, options are also used for product selection options. An example of possible options would be size or color.
+        - [Association Types](Catalog/Associations.md) - You can associate products to other products through associations. An example association type would be 'similar products'.
     - Sales - This is where sales are managed
         - Orders - Shows the customer orders placed within the system
     - Customer - Customer related configuration
