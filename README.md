@@ -11,7 +11,7 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
     5. [Options](Catalog/Options.md)
     6. [Association Types](Catalog/Associations.md)
 2. Sales
-    1. [Orders*](#)
+    1. [Orders](Sales/Orders.md)
 3. Customer
     1. [Customers*](#)
     2. [Groups*](#)
