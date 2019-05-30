@@ -13,7 +13,7 @@ Unofficial documentation for the Sylius admin panel aimed at end users.
 2. Sales
     1. [Orders](Sales/Orders.md)
 3. Customer
-    1. [Customers*](#)
+    1. [Customers](Customer/Customers.md)
     2. [Groups*](#)
 4. Marketing
     1. [Promotions](Marketing/Promotions.md)
